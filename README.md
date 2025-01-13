@@ -23,7 +23,7 @@ This is an implementation of [Conway's Game of Life](https://en.wikipedia.org/wi
 - *Grid*: Displays the current state of the game grid.
 
 ## Technical Details
-- The workbook uses advanced Excel features like dynamic arrays, LAMBDA functions, and VBA macros to implement the simulation.
+- The workbook uses Excel features like dynamic arrays, LAMBDA functions, and VBA macros to implement the simulation.
 - Key Excel functions used:
   - LET, LAMBDA, SEQUENCE, INDEX, MOD, VSTACK, OFFSET
 - The workbook is compatible with Excel versions that support the required functions.
